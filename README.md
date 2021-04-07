@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Elliot!
 
 I’m interested in technology and often play around with servers, networking hardware, workstations, home automation & other cool tech.
+
 I also have a side interest with Audio/Visual & Lighting.
 
 Visit my website: https://elliotjackson.id.au/
