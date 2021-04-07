@@ -1,4 +1,4 @@
-#👋 Hi, I'm Elliot Jackson
+# 👋 Hi, I'm Elliot Jackson
 
 I’m interested in technology and often play around with servers, networking hardware, workstations, home automation & other cool tech.
 I also have a side interest with Audio/Visual & Lighting.
